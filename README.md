@@ -1,2 +1,2 @@
 # horror-game
-still in beta
+I made this game for fun, dont expect this to be sold or anything
